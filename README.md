@@ -26,8 +26,8 @@ You can find the code for this project [here](https://github.com/uddipbisht/AI-M
 
 File overview:-
 
-  - machine_learning.ipynb - the main project code
-  - data_prep.ipynb - the code to generate the team-level dataset from an athlete-level dataset
+  - **machine_learning.ipynb** - the main project code
+  - **data_prep.ipynb** - the code to generate the team-level dataset from an athlete-level dataset
 
 # Local Setup
 # Installation
