@@ -22,7 +22,7 @@ Project Steps:-
    
 # Code:-
 
-You can find the code for this project here.
+You can find the code for this project [here]().
 
 File overview:-
 
@@ -47,5 +47,5 @@ We'll be using data from the Olympics, which was originally on [Kaggle](https://
 
  You can download the files we'll use in this project here:-
 
- - [teams.csv](https://raw.githubusercontent.com/uddipbisht/AI-ML-1-Project/refs/heads/main/athlete_events.csv) - the team-level data that we use in this project.
- - [athlete_events.csv]() - this is the original athlete-level data.
+ - [teams.csv]() - the team-level data that we use in this project.
+ - [athlete_events.csv](https://raw.githubusercontent.com/uddipbisht/AI-ML-1-Project/refs/heads/main/athlete_events.csv) - this is the original athlete-level data.
