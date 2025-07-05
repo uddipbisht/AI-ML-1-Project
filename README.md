@@ -27,7 +27,7 @@ You can find the code for this project here.
 File overview:-
 
   - machine_learning.ipynb - the main project code
-  * data_prep.ipynb - the code to generate the team-level dataset from an athlete-level dataset
+  - data_prep.ipynb - the code to generate the team-level dataset from an athlete-level dataset
 
 # Local Setup
 # Installation
@@ -35,7 +35,7 @@ File overview:-
 To follow this project, please install the following locally:
 
  - Python 3.8+
- * Python packages
+ - Python packages
    - pandas
    - numpy
    - scikit-learn
@@ -47,5 +47,5 @@ We'll be using data from the Olympics, which was originally on [Kaggle](https://
 
  You can download the files we'll use in this project here:-
 
- teams.csv - the team-level data that we use in this project.
- athlete_events.csv - this is the original athlete-level data.
+ - teams.csv - the team-level data that we use in this project.
+ - athlete_events.csv - this is the original athlete-level data.
