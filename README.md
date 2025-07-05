@@ -26,24 +26,24 @@ You can find the code for this project here.
 
 File overview:-
 
-  machine_learning.ipynb - the main project code
-  data_prep.ipynb - the code to generate the team-level dataset from an athlete-level dataset
+  - machine_learning.ipynb - the main project code
+  * data_prep.ipynb - the code to generate the team-level dataset from an athlete-level dataset
 
 # Local Setup
 # Installation
 	
 To follow this project, please install the following locally:
 
- $. Python 3.8+
- $. Python packages
-        ^ pandas
-        ^ numpy
-        ^ scikit-learn
-        ^ seaborn
+ - Python 3.8+
+ * Python packages
+   - pandas
+   - numpy
+   - scikit-learn
+   - seaborn
 
 # Data:-
 
-We'll be using data from the Olympics, which was originally on Kaggle (https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results).
+We'll be using data from the Olympics, which was originally on [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results).
 
  You can download the files we'll use in this project here:-
 
